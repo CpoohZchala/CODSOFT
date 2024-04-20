@@ -7,7 +7,7 @@ This project is an ATM (Automated Teller Machine) interface implemented in Java.
 
 ### Usage
 To use the ATM interface, follow these steps:
-1. Run the ATMInterface.java file.
+1. Run the Main.java file.
 2. Follow the on-screen instructions to navigate through the ATM interface.
 3. Choose from the available options: Withdraw, Deposit, Check Balance, or Exit.
 
